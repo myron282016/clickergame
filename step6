@@ -1,0 +1,8 @@
+// Initialize score
+var score = 0;
+
+// Get elements from HTML
+const scoreDisplay = document.getElementById('scoreValue');
+const clickButton = 
+
+
